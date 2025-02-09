@@ -24,11 +24,6 @@ This is a simple blockchain implementation using Python and Flask. It includes b
 
 ## Usage
 
-### Run the Blockchain
-```bash
-python blockchain.py
-```
-By default, the server runs on `http://0.0.0.0:5000`.
 
 ### API Endpoints
 - **Get the blockchain:**
